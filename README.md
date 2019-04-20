@@ -1,1 +1,1 @@
-
+Providing reproducible simulations and analysis for the paper "The triple filter bubble: Using agent-based modelling to test a meta-theoretical framework for the emergence of filter bubbles and echo chambers" (2018) Daniel Geschke, Jan Lorenz,
