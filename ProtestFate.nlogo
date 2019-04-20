@@ -320,7 +320,7 @@ threshold-level
 threshold-level
 0
 1
-0.7
+0.5
 0.05
 1
 NIL
@@ -413,7 +413,7 @@ num-topics
 num-topics
 1
 20
-5.0
+9.0
 1
 1
 NIL
@@ -472,7 +472,7 @@ HORIZONTAL
 TEXTBOX
 10
 80
-210
+220
 120
 Follower (directed) and \nFriends (reciprocal) Network
 14
@@ -765,7 +765,7 @@ INPUTBOX
 1410
 140
 randomSeed
-17.0
+16.0
 1
 0
 Number
