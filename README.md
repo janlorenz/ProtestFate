@@ -1,1 +1,7 @@
-Providing reproducible simulations and analysis for the paper "The triple filter bubble: Using agent-based modelling to test a meta-theoretical framework for the emergence of filter bubbles and echo chambers" (2018) Daniel Geschke, Jan Lorenz,
+# ProtestFate
+
+Providing reproducible simulations and analysis for the paper 
+
+On the fate of protests: Dynamics of activation and topic selection online and in the streets
+
+Ahmadreza Asgharpourmasouleh, Masoud Fattahzadeh, Daniel Mayerhoffer, Jan Lorenz (2019)
