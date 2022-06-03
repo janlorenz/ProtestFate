@@ -1,9 +1,9 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below and the research paper it belongs to."
 authors:
-  - family-names: Lorenz
-    given-names: Jan
+  - family-names: "Lorenz"
+    given-names: "Jan"
     orcid: https://orcid.org/0000-0002-5547-7848
-title: janlorenz/ProtestFate: Published version
+title: "janlorenz/ProtestFate: Published version"
 version: v1.0
 date-released: 2017-12-18
